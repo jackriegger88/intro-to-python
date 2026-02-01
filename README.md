@@ -1,3 +1,14 @@
+# Phy 225: Introduction to Python Programming for Numerical Methods
+This is a fork of an open-source textbook and course materials
+    for an introductory programming course using the Python programming language.
+
+Phy 225 students should create a personal fork of this repository
+    on GitHub and work on the assignments there. "Fork" should be an option on the top right of this page. The default options provided don't need to be changed. Then "create fork" at the bottom of the page.
+
+These instructions will not automatiaclly once you fork the repository, but in your personal fork you can edit the README.md file to include your name and any other information you want to add.
+
+To open in Github Codespaces, click the green "Code" button above, select the "Codespaces" tab and either create a new Codespace or open an existing one.
+
 # An Introduction to Python and Programming
 
 This project is a *thorough* introductory course
